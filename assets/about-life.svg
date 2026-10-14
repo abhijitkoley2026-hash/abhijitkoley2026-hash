@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="455" viewBox="0 0 920 455" role="img">
+<title>Abhijit Koley — GitHub profile</title>
+
+<defs>
+  <linearGradient id="aboutborder" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#247bff" stop-opacity=".95"/>
+    <stop offset=".55" stop-color="#247bff" stop-opacity=".16"/>
+    <stop offset="1" stop-color="#ff354f" stop-opacity=".9"/>
+  </linearGradient>
+  <linearGradient id="aboutshine" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#fff" stop-opacity=".14"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="aboutdots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1" fill="#a9c8ff" opacity=".12"/>
+  </pattern>
+  <style>
+    text{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Arial,sans-serif;fill:#f5f7ff}
+    .mono{font-family:"JetBrains Mono","SFMono-Regular",Consolas,monospace;letter-spacing:1.5px}
+    .muted{fill:#aab5ce}.blue{fill:#69a2ff}.red{fill:#ff6477}
+    .eyebrow{font-size:13px;font-weight:700;letter-spacing:3px}
+    .body{font-size:16px}.small{font-size:12px}
+    .card{fill:#0d1425;stroke:#26344e;stroke-width:1}
+    .line{stroke:#26344e;stroke-width:1}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}
+  </style>
+</defs>
+
+<rect width="920" height="455" rx="26" fill="#070b16"/>
+<rect width="920" height="455" rx="26" fill="url(#aboutdots)"/>
+<rect x="1" y="1" width="918" height="453" rx="25" fill="none" stroke="url(#aboutborder)"/>
+
+<text x="40" y="48" class="eyebrow blue">02 / ABOUT &amp; INTERESTS</text>
+<text x="40" y="101" font-size="34" font-weight="800">Curious by design.</text>
+<text x="40" y="132" class="body muted">Turning ideas into practical, thoughtful digital experiences.</text>
+<g transform="translate(40 172)">
+  <rect class="card" width="390" height="235" rx="20"/>
+  <text x="22" y="36" class="eyebrow red">WHAT I BRING</text>
+  <g font-size="17">
+    <circle cx="26" cy="75" r="4" fill="#247bff"/><text x="42" y="81">Frontend foundations</text>
+    <circle cx="26" cy="116" r="4" fill="#ff354f"/><text x="42" y="122">Problem-solving with C++</text>
+    <circle cx="26" cy="157" r="4" fill="#247bff"/><text x="42" y="163">Exploring AI &amp; ML</text>
+    <circle cx="26" cy="198" r="4" fill="#ff354f"/><text x="42" y="204">Project-first learning</text>
+  </g>
+</g>
+<g transform="translate(458 172)">
+  <rect class="card" width="422" height="235" rx="20"/>
+  <text x="22" y="36" class="eyebrow blue">CURRENT CURIOSITIES</text>
+  <g id="slide1">
+    <text x="22" y="86" font-size="26" font-weight="800">Web development</text>
+    <text x="22" y="117" class="body muted">Interfaces with clarity, motion and purpose.</text>
+  </g>
+  <g id="slide2" opacity="0">
+    <text x="22" y="86" font-size="26" font-weight="800">AI &amp; machine learning</text>
+    <text x="22" y="117" class="body muted">Learning how intelligent tools can help people.</text>
+  </g>
+  <g id="slide3" opacity="0">
+    <text x="22" y="86" font-size="26" font-weight="800">DSA &amp; building</text>
+    <text x="22" y="117" class="body muted">Strengthening fundamentals by making projects.</text>
+  </g>
+  <g transform="translate(22 188)">
+    <rect width="112" height="4" rx="2" fill="#25324b"/><rect width="112" height="4" rx="2" fill="#247bff"><animate attributeName="width" values="112;0;0;0;112" keyTimes="0;.32;.34;.66;1" dur="12s" repeatCount="indefinite" begin="0s"/></rect>
+    <rect x="124" width="112" height="4" rx="2" fill="#25324b"/><rect x="124" width="112" height="4" rx="2" fill="#247bff"><animate attributeName="width" values="0;0;112;0;0" keyTimes="0;.32;.34;.66;1" dur="12s" repeatCount="indefinite" begin="0s"/></rect>
+    <rect x="248" width="112" height="4" rx="2" fill="#25324b"/><rect x="248" width="112" height="4" rx="2" fill="#ff354f"><animate attributeName="width" values="0;0;0;112;0" keyTimes="0;.32;.34;.66;1" dur="12s" repeatCount="indefinite" begin="0s"/></rect>
+  </g>
+</g>
+
+</svg>

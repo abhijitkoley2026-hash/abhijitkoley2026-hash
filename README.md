@@ -1,16 +1,30 @@
-## Hi there 👋
+<!-- Abhijit Koley | GitHub profile README -->
+<div align="center">
 
-<!--
-**abhijitkoley2026-hash/abhijitkoley2026-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/hero.svg?v=1" alt="Abhijit Koley — animated profile hero" width="100%">
 
-Here are some ideas to get you started:
+<img src="./assets/about-life.svg?v=1" alt="About and interests" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./assets/stack.svg?v=1" alt="Technology stack" width="100%">
+
+<img src="./assets/id-dashboard.svg?v=1" alt="Animated creator ID" width="100%">
+
+<img src="./assets/connect.svg?v=1" alt="Connect with Abhijit" width="100%">
+
+</div>
+
+## Featured projects
+
+| Project | Description | Repository |
+|---|---|---|
+| WeatherGPT | Weather-focused assistant concept for farmers and other users. | Repository URL not yet supplied |
+| TIMELESS / ATELIER | Premium watch-inspired scroll experience. | [View repository](https://github.com/akoley713-ui/timeless-scroll-experience) |
+| Login Page | HTML login-page project. | [View repository](https://github.com/akoley713-ui/Login-page-as-a-HTML-project) |
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/abhijit-koley-18201a41a)
+- [Portfolio](https://akoley713-ui.github.io/Portfolio/)
+- [GitHub](https://github.com/akoley713-ui)
+
+*Profile artwork is self-contained in each SVG. SVG animations are decorative; links are provided here as real clickable Markdown links.*
